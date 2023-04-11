@@ -1,4 +1,4 @@
-Hey there, I'm Aryan
+Hey there 👋 I'm Aryan
 ============================
 
 Versatile programmer with a strong background in competitive coding and expertise in web development. Passionate about solving complex problems and creating innovative solutions.
