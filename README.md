@@ -65,9 +65,25 @@ Versatile programmer with a strong background in competitive coding and expertis
 
 ## Socials
 
-<p align="left"> <a href="https://www.github.com/aryanGupta-09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aryangupta09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/aryangupta09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;
+  <a href="https://codeforces.com/profile/DevilCoder_09" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://github.com/aryanGupta-09/aryanGupta-09/assets/96881807/825af0e4-fa53-4714-87ae-fdcae1997d99" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="https://leetcode.com/DevilCoder_09/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="32" height="32" /></a>
+  <a href="https://www.codechef.com/users/devilcoder_09" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://github.com/aryanGupta-09/aryanGupta-09/assets/96881807/88a1e6df-904a-43d8-bb09-b57df9032b59" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="https://www.github.com/aryanGupta-09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+</p>
 
 ## Badges
+
+<a href="https://codeforces.com/profile/DevilCoder_09"><img src="https://raw.githubusercontent.com/aryanGupta-09/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="aryanGupta-09's Codeforces stats" /></a>
 
 <a href="http://www.github.com/aryanGupta-09"><img src="https://github-readme-stats.vercel.app/api?username=aryanGupta-09&show_icons=true&hide=&count_private=true&title_color=6456f1&text_color=ffffff&icon_color=6456f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="aryanGupta-09's GitHub stats" /></a>
 
