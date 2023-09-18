@@ -29,7 +29,9 @@ Versatile programmer with a strong background in competitive coding and expertis
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="45" height="45" alt="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="45" height="45" alt="MongoDB" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-dark.svg" width="45" height="45" alt="Express" /></a>
+<a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="45" height="45" alt="Three.js" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="45" height="45" alt="MySQL" /></a>
+<a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/97445947/268622758-f42dab55-46e4-4b08-ab45-9ac245d03eb3.png" width="45" height="50" alt="Sequelize" /></a>&nbsp;
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="45" height="45"/> </a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="45" height="45" alt="JQuery" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="45" height="45" alt="Sass" /></a>
@@ -50,9 +52,11 @@ Versatile programmer with a strong background in competitive coding and expertis
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="45" height="45" alt="Premiere Pro" /></a>
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" width="45" height="45" alt="InDesign" /></a>
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="45" height="45" alt="XD" /></a>
+<a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://asset.brandfetch.io/idAnDTFapY/idYC5f2L1X.png" width="45" height="45" alt="Miro" /></a>
 <a href="https://www.autodesk.in/products/fusion-360/overview" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png" alt="fusion 360" width="45" height="45"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="45" height="45"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="45" height="45" alt="Figma" /></a>
+<a href="https://www.protopie.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/protopie-logo-A51D8D3BEE-seeklogo.com.png" width="42" height="42" alt="ProtoPie" /></a>
 </p>
 
 #### Other
