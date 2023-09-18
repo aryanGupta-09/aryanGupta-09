@@ -47,11 +47,12 @@ Versatile programmer with a strong background in competitive coding and expertis
 #### Design
 
 <p align="left">
-<a href="adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="45" height="45" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="45" height="45" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="45" height="45" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" width="45" height="45" alt="InDesign" /></a>
+<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="45" height="45" alt="After Effects" /></a>
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="45" height="45" alt="XD" /></a>
+<a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" width="45" height="45" alt="InDesign" /></a>
+<a href="adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="45" height="45" alt="Illustrator" /></a>
 <a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://asset.brandfetch.io/idAnDTFapY/idYC5f2L1X.png" width="45" height="45" alt="Miro" /></a>
 <a href="https://www.autodesk.in/products/fusion-360/overview" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png" alt="fusion 360" width="45" height="45"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="45" height="45"/> </a>
