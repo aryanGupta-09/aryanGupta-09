@@ -16,6 +16,7 @@ Versatile programmer with a strong background in competitive coding and expertis
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="45" height="45" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="45" height="45" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="45" height="45" alt="TypeScript" /></a>
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/latex-icon-2014x2048-wyowdlpa.png" width="45" height="45" alt="LaTeX" /></a>
 </p>
 
 ## Tools and Technologies
