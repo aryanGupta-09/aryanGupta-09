@@ -27,6 +27,7 @@ Versatile programmer with a strong background in competitive coding and expertis
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="45" height="45" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="45" height="45" alt="Redux" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/aryanGupta-09/assets/96881807/131db734-30d2-4d14-81ce-0edcf8fe3f00" width="45" height="45" alt="Next.js" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png" width="45" height="45" alt="Firebase" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="45" height="45" alt="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="45" height="45" alt="MongoDB" /></a>
@@ -61,6 +62,16 @@ Versatile programmer with a strong background in competitive coding and expertis
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="45" height="45"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="45" height="45" alt="Figma" /></a>
 <a href="https://www.protopie.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/protopie-logo-A51D8D3BEE-seeklogo.com.png" width="42" height="42" alt="ProtoPie" /></a>
+</p>
+
+#### Distributed Systems and Cloud
+
+<p align="left">
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-1024x823-wiwlyizc.png" height="42" alt="Google Cloud" /></a>&nbsp;
+<a href="https://protobuf.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/aryanGupta-09/assets/96881807/336ba9db-4e52-430d-9fac-77a3bf6c6f3d" width="67" height="40" alt="protobuf" /></a>&nbsp;
+<a href="https://grpc.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/OnlineShoppingPlatform-using-gRPC/assets/96881807/4f1a5d76-cc79-448b-91b1-2bad3a464333" height="45" alt="gRPC" /></a>&nbsp;
+<a href="https://zeromq.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/aryanGupta-09/assets/96881807/460e6a58-9d9e-46b1-9be2-6527183b0719" width="42" height="42" alt="ZeroMQ" /></a>&nbsp;
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" width="40" height="40" alt="RabbitMQ" /></a>
 </p>
 
 #### Other
