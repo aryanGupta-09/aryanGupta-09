@@ -8,16 +8,16 @@ Versatile programmer with a strong background in competitive coding and expertis
 ## Languages
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="45" height="45" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="45" height="45" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="45" height="45" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="45" height="45" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="45" height="45" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="45" height="45" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="45" height="45" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="45" height="45" alt="TypeScript" /></a>
-<a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/2560px-Haskell-Logo.svg.png" width="55" height="45" alt="Haskell" /></a>
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/latex-icon-2014x2048-wyowdlpa.png" width="45" height="45" alt="LaTeX" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/C.svg" width="45" height="45" alt="C" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/CPP.svg" width="45" height="45" alt="C++" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Java.svg" width="45" height="45" alt="Java" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Python.svg" width="45" height="45" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/HTML.svg" width="45" height="45" alt="HTML5" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/CSS.svg" width="45" height="45" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/JavaScript.svg" width="45" height="45" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/TypeScript.svg" width="45" height="45" alt="TypeScript" /></a>
+  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Haskell.png" width="55" height="45" alt="Haskell" /></a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/LaTeX.png" width="45" height="45" alt="LaTeX" /></a>
 </p>
 
 ## Tools and Technologies
@@ -25,77 +25,79 @@ Versatile programmer with a strong background in competitive coding and expertis
 #### Web Development
 
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="45" height="45" alt="React" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="45" height="45" alt="Redux" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/aryanGupta-09/assets/96881807/131db734-30d2-4d14-81ce-0edcf8fe3f00" width="45" height="45" alt="Next.js" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png" width="45" height="45" alt="Firebase" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="45" height="45" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="45" height="45" alt="MongoDB" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-dark.svg" width="45" height="45" alt="Express" /></a>
-<a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="45" height="45" alt="Three.js" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="45" height="45" alt="MySQL" /></a>
-<a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/97445947/268622758-f42dab55-46e4-4b08-ab45-9ac245d03eb3.png" width="45" height="50" alt="Sequelize" /></a>&nbsp;
-<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="45" height="45"/></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="45" height="45" alt="JQuery" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="45" height="45" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="45" height="45" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="45" height="45" alt="Bootstrap" /></a>
-<a href="https://materializecss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="45" height="45"/></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="45" height="45" alt="Material UI" /></a>
-<a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="38" height="38" alt="Framer Motion" /></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
-<a href="https://gulpjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" alt="gulp" width="20" height="45"/></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Babel_Logo.svg" width="45" height="45" alt="Babel" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/React.svg" width="45" height="45" alt="React" /></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Redux.svg" width="45" height="45" alt="Redux" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Nextjs.png" width="45" height="45" alt="Next.js" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Firebase.png" width="45" height="45" alt="Firebase" /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Nodejs.svg" width="45" height="45" alt="Node.js" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/MongoDB.svg" width="45" height="45" alt="MongoDB" /></a>
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Mongoose.png" width="31" height="36" alt="Mongoose" /></a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/MySQL.svg" width="45" height="45" alt="MySQL" /></a>
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Sequelize.png" width="45" height="50" alt="Sequelize" /></a>&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Expressjs.svg" width="45" height="45" alt="Express.js" /></a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Threejs.png" width="45" height="45" alt="Three.js" /></a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Redis.svg" alt="Redis" width="45" height="45"/></a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/jQuery.svg" width="45" height="45" alt="jQuery" /></a>
+  <a href="https://jqueryui.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/jQueryUI.svg" width="45" height="45" alt="jQuery UI" /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Sass.svg" width="45" height="45" alt="Sass" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Tailwind.svg" width="45" height="45" alt="Tailwind CSS" /></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Bootstrap.svg" width="45" height="45" alt="Bootstrap" /></a>
+  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Materialize.svg" alt="Materialize" width="45" height="45"/></a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/MaterialUI.svg" width="45" height="45" alt="Material UI" /></a>
+  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/FramerMotion.svg" width="38" height="38" alt="Framer Motion" /></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Postman.svg" alt="Postman" width="45" height="45"/></a>
+  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Gulp.png" alt="Gulp" width="20" height="45"/></a>
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Babel.svg" width="45" height="45" alt="Babel" /></a>
 </p>
 
 #### Design
 
 <p align="left">
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="45" height="45" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="45" height="45" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="45" height="45" alt="After Effects" /></a>
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="45" height="45" alt="XD" /></a>
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" width="45" height="45" alt="InDesign" /></a>
-<a href="adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="45" height="45" alt="Illustrator" /></a>
-<a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://asset.brandfetch.io/idAnDTFapY/idYC5f2L1X.png" width="45" height="45" alt="Miro" /></a>
-<a href="https://www.autodesk.in/products/fusion-360/overview" target="_blank" rel="noreferrer"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png" alt="fusion 360" width="45" height="45"/></a>
-<a href="https://www.lucidchart.com/pages/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/aryanGupta-09/assets/96881807/34fdac39-91d3-4ef8-aae9-745cbeb0f0eb" alt="LucidChart" width="45" height="45"/></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="45" height="45"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="45" height="45" alt="Figma" /></a>
-<a href="https://www.protopie.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/protopie-logo-A51D8D3BEE-seeklogo.com.png" width="42" height="42" alt="ProtoPie" /></a>
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Photoshop.svg" width="45" height="45" alt="Photoshop" /></a>
+  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/PremierePro.svg" width="45" height="45" alt="Premiere Pro" /></a>
+  <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/AfterEffects.svg" width="45" height="45" alt="After Effects" /></a>
+  <a href="https://www.adobe.com/in/products/xd.html" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/XD.svg" width="45" height="45" alt="XD" /></a>
+  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/InDesign.svg" width="45" height="45" alt="InDesign" /></a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Illustrator.svg" width="45" height="45" alt="Illustrator" /></a>
+  <a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Miro.png" width="45" height="45" alt="Miro" /></a>
+  <a href="https://www.autodesk.in/products/fusion-360/overview" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Fusion360.webp" alt="Fusion 360" width="45" height="45"/></a>
+  <a href="https://www.lucidchart.com/pages/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/LucidChart.png" alt="Lucid Chart" width="45" height="45"/></a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Blender.svg" alt="Blender" width="45" height="45"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Figma.svg" width="45" height="45" alt="Figma" /></a>
+  <a href="https://www.protopie.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/ProtoPie.png" width="42" height="42" alt="Proto Pie" /></a>
 </p>
 
 #### Distributed Systems and Cloud
 
 <p align="left">
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-1024x823-wiwlyizc.png" height="42" alt="Google Cloud" /></a>&nbsp;
-<a href="https://protobuf.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/aryanGupta-09/assets/96881807/336ba9db-4e52-430d-9fac-77a3bf6c6f3d" width="64" height="38" alt="protobuf" /></a>&nbsp;
-<a href="https://grpc.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/aryanGupta-09/assets/96881807/310cb125-1346-49b9-a87a-b6a84934a9a6" width="75" height="38" alt="gRPC" /></a>&nbsp;
-<a href="https://zeromq.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/aryanGupta-09/assets/96881807/460e6a58-9d9e-46b1-9be2-6527183b0719" width="42" height="42" alt="ZeroMQ" /></a>&nbsp;
-<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" width="40" height="40" alt="RabbitMQ" /></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Distributed%20Systems%20and%20Cloud/GoogleCloud.png" height="42" alt="Google Cloud" /></a>&nbsp;
+  <a href="https://protobuf.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Distributed%20Systems%20and%20Cloud/Protobuf.png" width="64" height="38" alt="Protobuf" /></a>&nbsp;
+  <a href="https://grpc.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Distributed%20Systems%20and%20Cloud/gRPC.png" width="75" height="38" alt="gRPC" /></a>&nbsp;
+  <a href="https://zeromq.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Distributed%20Systems%20and%20Cloud/ZeroMQ.png" width="42" height="42" alt="ZeroMQ" /></a>&nbsp;
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Distributed%20Systems%20and%20Cloud/RabbitMQ.png" width="40" height="40" alt="RabbitMQ" /></a>
 </p>
 
 #### Other
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="45" height="45" alt="Git" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Git.svg" width="45" height="45" alt="Git" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Linux.svg" alt="Linux" width="45" height="45"/></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Arduino.svg" alt="Arduino" width="45" height="45"/> </a>
 </p>
 
 ## Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aryangupta09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/aryangupta09" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Socials/LinkedIn.svg" width="32" height="32" /></a>&nbsp;
   <a href="https://codeforces.com/profile/DevilCoder_09" target="_blank" rel="noreferrer">
     <picture>
-      <img src="https://github.com/aryanGupta-09/aryanGupta-09/assets/96881807/825af0e4-fa53-4714-87ae-fdcae1997d99" width="32" height="32" />
+      <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Socials/Codeforces.jpeg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://leetcode.com/DevilCoder_09/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="32" height="32" /></a>
+  <a href="https://leetcode.com/DevilCoder_09/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Socials/LeetCode.png" width="32" height="32" /></a>
   <a href="https://www.codechef.com/users/devilcoder_09" target="_blank" rel="noreferrer">
     <picture>
-      <img src="https://github.com/aryanGupta-09/aryanGupta-09/assets/96881807/88a1e6df-904a-43d8-bb09-b57df9032b59" width="32" height="32" />
+      <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Socials/CodeChef.jpg" width="32" height="32" />
     </picture>
   </a>
 </p>
