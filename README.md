@@ -108,7 +108,7 @@ Versatile programmer with a strong background in competitive coding and expertis
 &nbsp;&nbsp;
 <a href="https://codeforces.com/profile/DevilCoder_09"><img src="https://raw.githubusercontent.com/aryanGupta-09/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="aryanGupta-09's Codeforces stats" /></a>
 
-<a href="#"><img src="https://github-readme-stats-aryangupta-09s-projects.vercel.app/api?username=aryanGupta-09&show_icons=true&count_private=true&hide=issues&show=reviews,prs_merged,prs_merged_percentage&title_color=6456f1&text_color=ffffff&icon_color=6456f1&bg_color=1c1917&hide_border=true" alt="aryanGupta-09's GitHub stats" /></a>
+<a href="#"><img src="https://github-readme-stats-aryangupta-09s-projects.vercel.app/api?username=aryanGupta-09&show_icons=true&count_private=true&hide=issues&show=reviews&title_color=6456f1&text_color=ffffff&icon_color=6456f1&bg_color=1c1917&hide_border=true" alt="aryanGupta-09's GitHub stats" /></a>
 
 <a href="#"><img src="https://streak-stats.demolab.com/?user=aryanGupta-09&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
