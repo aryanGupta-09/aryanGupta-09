@@ -53,23 +53,6 @@ Versatile programmer with a strong background in competitive coding and expertis
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Babel.svg" width="45" height="35" alt="Babel" /></a>
 </p>
 
-#### Design
-
-<p align="left">
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Photoshop.svg" width="45" height="45" alt="Photoshop" /></a>
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/PremierePro.svg" width="45" height="45" alt="Premiere Pro" /></a>
-  <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/AfterEffects.svg" width="45" height="45" alt="After Effects" /></a>
-  <a href="https://www.adobe.com/in/products/xd.html" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/XD.svg" width="45" height="45" alt="XD" /></a>
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/InDesign.svg" width="45" height="45" alt="InDesign" /></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Illustrator.svg" width="45" height="45" alt="Illustrator" /></a>
-  <a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Miro.png" width="45" height="45" alt="Miro" /></a>
-  <a href="https://www.autodesk.in/products/fusion-360/overview" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Fusion360.webp" alt="Fusion 360" width="45" height="45"/></a>
-  <a href="https://www.lucidchart.com/pages/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/LucidChart.png" alt="Lucid Chart" width="45" height="45"/></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Blender.svg" alt="Blender" width="45" height="45"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Figma.svg" width="45" height="45" alt="Figma" /></a>
-  <a href="https://www.protopie.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/ProtoPie.png" width="42" height="42" alt="Proto Pie" /></a>
-</p>
-
 #### Distributed Systems and Cloud
 
 <p align="left">
@@ -78,6 +61,18 @@ Versatile programmer with a strong background in competitive coding and expertis
   <a href="https://grpc.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Distributed%20Systems%20and%20Cloud/gRPC.png" width="75" height="38" alt="gRPC" /></a>&nbsp;
   <a href="https://zeromq.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Distributed%20Systems%20and%20Cloud/ZeroMQ.png" width="42" height="42" alt="ZeroMQ" /></a>&nbsp;
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Distributed%20Systems%20and%20Cloud/RabbitMQ.png" width="40" height="40" alt="RabbitMQ" /></a>
+</p>
+
+#### Design
+
+<p align="left">
+  <a href="https://www.adobe.com/in/creativecloud/all-apps.html" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/AdobeCreativeCloud.png" width="45" height="45" alt="Adobe Creative Cloud" /></a>&nbsp;
+  <a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Miro.png" width="45" height="45" alt="Miro" /></a>&nbsp;
+  <a href="https://www.autodesk.in/products/fusion-360/overview" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Fusion360.webp" alt="Fusion 360" width="45" height="45"/></a>
+  <a href="https://www.lucidchart.com/pages/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/LucidChart.png" alt="Lucid Chart" width="45" height="45"/></a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Blender.svg" alt="Blender" width="45" height="45"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Figma.svg" width="45" height="45" alt="Figma" /></a>
+  <a href="https://www.protopie.io/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/ProtoPie.png" width="42" height="42" alt="Proto Pie" /></a>
 </p>
 
 #### Other
