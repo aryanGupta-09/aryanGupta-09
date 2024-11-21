@@ -25,8 +25,8 @@ Versatile programmer with a strong background in competitive coding and expertis
 #### Web Development
 
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/React.svg" width="45" height="45" alt="React" /></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Nextjs.png" width="45" height="45" alt="Next.js" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/React.svg" width="45" height="45" alt="React" /></a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer" title="Redux"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Redux.svg" width="45" height="45" alt="Redux" /></a>&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express.js"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Expressjs.svg" width="45" height="45" alt="Express.js" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="Node.js"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Nodejs.svg" width="45" height="45" alt="Node.js" /></a>&nbsp;
