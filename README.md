@@ -113,7 +113,7 @@ Versatile programmer with a strong background in competitive coding and expertis
 ## Stats
 
 <picture>
-  <img src="https://github-readme-stats-aryangupta-09s-projects.vercel.app/api/top-langs/?username=aryanGupta-09&exclude_repo=github-readme-stats,cf-stats,Haskell-MOOC-Solutions,ML_refresher_course_2022&langs_count=20&title_color=ffffff&text_color=ffffff&icon_color=6456f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut" alt="Top Languages" />
+  <img src="https://github-readme-stats-aryangupta-09s-projects.vercel.app/api/top-langs/?username=aryanGupta-09&exclude_repo=github-readme-stats,cf-stats,Haskell-MOOC-Solutions,ML_refresher_course_2022,AIIMS-Data,LOOQ&langs_count=20&title_color=ffffff&text_color=ffffff&icon_color=6456f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut" alt="Top Languages" />
 </picture>
 <!--
 &nbsp;&nbsp;
