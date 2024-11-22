@@ -38,6 +38,7 @@ Versatile programmer with a strong background in competitive coding and expertis
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Firebase.png" width="40" height="42" alt="Firebase" /></a>&nbsp;
   <a href="https://redis.io" target="_blank" rel="noreferrer" title="Redis"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Redis.svg" alt="Redis" width="45" height="45"/></a>&nbsp;
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer" title="Axios"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Axios.png" alt="Axios" width="25" height="41"/></a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer" title="JWT"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/JWT.png" alt="JWT" width="47" height="47"/></a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer" title="Socket.io"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Socket-io.png" width="45" height="45" alt="Socket.io" /></a>
   <a href="https://www.passportjs.org/" target="_blank" rel="noreferrer" title="Passport.js"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Passportjs.png" width="40" height="45" alt="Passport.js" /></a>&nbsp;
   <a href="https://nodemailer.com/" target="_blank" rel="noreferrer" title="Nodemailer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Nodemailer.png" width="70" height="40" alt="Nodemailer" /></a>&nbsp;
@@ -103,18 +104,10 @@ Versatile programmer with a strong background in competitive coding and expertis
 ## Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aryangupta09" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Socials/LinkedIn.svg" width="32" height="32" /></a>&nbsp;
-  <a href="https://codeforces.com/profile/DevilCoder_09" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Socials/Codeforces.jpeg" width="32" height="32" />
-    </picture>
-  </a>
+  <a href="https://www.linkedin.com/in/aryangupta09" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Socials/LinkedIn.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/DevilCoder_09" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Socials/Codeforces.jpeg" width="32" height="32" /></a>
   <a href="https://leetcode.com/DevilCoder_09/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Socials/LeetCode.png" width="32" height="32" /></a>
-  <a href="https://www.codechef.com/users/devilcoder_09" target="_blank" rel="noreferrer">
-    <picture>
-      <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Socials/CodeChef.jpg" width="32" height="32" />
-    </picture>
-  </a>
+  <a href="https://www.codechef.com/users/devilcoder_09" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Socials/CodeChef.jpg" width="32" height="32" /></a>
 </p>
 
 ## Stats
