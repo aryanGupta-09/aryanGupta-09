@@ -112,15 +112,28 @@ Versatile programmer with a strong background in competitive coding and expertis
 
 ## Stats
 
-<a href="#" align="left"><img src="https://github-readme-stats-aryangupta-09s-projects.vercel.app/api/top-langs/?username=aryanGupta-09&exclude_repo=github-readme-stats,cf-stats,Haskell-MOOC-Solutions,ML_refresher_course_2022&langs_count=20&title_color=ffffff&text_color=ffffff&icon_color=6456f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut" alt="Top Languages" /></a>
+<picture>
+  <img src="https://github-readme-stats-aryangupta-09s-projects.vercel.app/api/top-langs/?username=aryanGupta-09&exclude_repo=github-readme-stats,cf-stats,Haskell-MOOC-Solutions,ML_refresher_course_2022&langs_count=20&title_color=ffffff&text_color=ffffff&icon_color=6456f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut" alt="Top Languages" />
+</picture>
+<!--
 &nbsp;&nbsp;
 <a href="https://codeforces.com/profile/DevilCoder_09"><img src="https://raw.githubusercontent.com/aryanGupta-09/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="aryanGupta-09's Codeforces stats" /></a>
+-->
+<br/>
 
-<a href="#"><img src="https://github-readme-stats-aryangupta-09s-projects.vercel.app/api?username=aryanGupta-09&show_icons=true&count_private=true&hide=issues&show=reviews&title_color=6456f1&text_color=ffffff&icon_color=6456f1&bg_color=1c1917&hide_border=true" alt="aryanGupta-09's GitHub stats" /></a>
+<picture>
+  <img src="https://github-readme-stats-aryangupta-09s-projects.vercel.app/api?username=aryanGupta-09&show_icons=true&count_private=true&hide=issues&show=reviews&title_color=6456f1&text_color=ffffff&icon_color=6456f1&bg_color=1c1917&hide_border=true" alt="aryanGupta-09's GitHub stats" />
+</picture>
+<br/>
 
-<a href="#"><img src="https://streak-stats.demolab.com/?user=aryanGupta-09&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<picture>
+  <img src="https://streak-stats.demolab.com/?user=aryanGupta-09&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</picture>
+<br/>
 
-<a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanGupta-09&bg_color=1c1917&color=ffffff&line=6456f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanGupta-09&bg_color=1c1917&color=ffffff&line=6456f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</picture>
 
 ### ✍️ Bytes of Wisdom
 <picture>
