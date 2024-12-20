@@ -35,6 +35,7 @@ Versatile programmer with a strong background in competitive coding and expertis
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/MySQL.svg" width="45" height="45" alt="MySQL" /></a>
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer" title="Sequelize"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Sequelize.png" width="45" height="50" alt="Sequelize" /></a>&nbsp;
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" title="SQLite"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/SQLite.png" width="45" height="45" alt="SQLite" /></a>
+  <a href="https://knexjs.org/" target="_blank" rel="noreferrer" title="Knex.js"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Knexjs.png" width="44" height="44" alt="Knex.js" /></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Firebase.png" width="40" height="42" alt="Firebase" /></a>&nbsp;
   <a href="https://redis.io" target="_blank" rel="noreferrer" title="Redis"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Redis.svg" alt="Redis" width="45" height="45"/></a>&nbsp;
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer" title="Axios"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Axios.png" alt="Axios" width="25" height="41"/></a>
@@ -73,6 +74,7 @@ Versatile programmer with a strong background in competitive coding and expertis
 #### Distributed Systems and Cloud
 
 <p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" title="AWS"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Distributed%20Systems%20and%20Cloud/AWS.png" height="38" alt="AWS" /></a>&nbsp;&nbsp;
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer" title="Google Cloud"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Distributed%20Systems%20and%20Cloud/GoogleCloud.png" height="42" alt="Google Cloud" /></a>&nbsp;
   <a href="https://protobuf.dev/" target="_blank" rel="noreferrer" title="Protobuf"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Distributed%20Systems%20and%20Cloud/Protobuf.png" width="64" height="38" alt="Protobuf" /></a>&nbsp;
   <a href="https://grpc.io/" target="_blank" rel="noreferrer" title="gRPC"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Distributed%20Systems%20and%20Cloud/gRPC.png" width="75" height="38" alt="gRPC" /></a>&nbsp;
