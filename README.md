@@ -1,9 +1,11 @@
 Hey there 👋 I'm Aryan
 ============================
 
-Versatile programmer with a strong background in competitive coding and expertise in web development. Passionate about solving complex problems and creating innovative solutions.
+I’m a passionate software developer with a solid background in computer science and web technologies. I specialize in creating impactful web solutions with a focus on UI/UX design, data management, and high-performance systems. Experienced in building and maintaining RESTful APIs, and applying Agile methodologies for iterative development.
 
-* 🖥️  See my [Portfolio](https://aryangupta09.netlify.app/)
+I prioritize collaboration, maintainable code, and efficient workflows, with strong skills in Git and version control. Always eager to contribute to mission-driven projects and explore new opportunities for growth and innovation. Let’s connect and create something exceptional together!
+
+<!-- * 🖥️  See my [Portfolio](https://aryangupta09.netlify.app/) -->
 
 ## Languages
 
@@ -104,6 +106,7 @@ Versatile programmer with a strong background in competitive coding and expertis
   <a href="https://www.zotero.org/" target="_blank" rel="noreferrer" title="Zotero"> <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Zotero.png" alt="Zotero" width="45" height="45"/></a>
 </p>
 
+<!--
 ## Socials
 
 <p align="left">
@@ -112,6 +115,7 @@ Versatile programmer with a strong background in competitive coding and expertis
   <a href="https://leetcode.com/DevilCoder_09/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Socials/LeetCode.png" width="32" height="32" /></a>
   <a href="https://www.codechef.com/users/devilcoder_09" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Socials/CodeChef.jpg" width="32" height="32" /></a>
 </p>
+-->
 
 ## Stats
 
