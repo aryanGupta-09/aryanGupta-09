@@ -1,9 +1,11 @@
 Hey there 👋 I'm Aryan
 ============================
 
-I’m a passionate software developer with a solid background in computer science and web technologies. I specialize in creating impactful web solutions with a focus on UI/UX design, data management, and high-performance systems. Experienced in building and maintaining RESTful APIs, and applying Agile methodologies for iterative development.
+I’m a passionate software developer with a solid background in computer science and web technologies, specializing in creating impactful web solutions. Focused on UI/UX design, data management, and building high-performance systems, I have experience in developing and maintaining RESTful APIs, with an emphasis on applying Agile methodologies for iterative development.
 
-I prioritize collaboration, maintainable code, and efficient workflows, with strong skills in Git and version control. Always eager to contribute to mission-driven projects and explore new opportunities for growth and innovation. Let’s connect and create something exceptional together!
+Collaboration, maintainable code, and efficient workflows are top priorities for me, supported by strong skills in Git and version control. I’m committed to contributing to mission-driven projects and always seeking new opportunities for growth and innovation.
+
+Let’s connect and create something exceptional together!
 
 <!-- * 🖥️  See my [Portfolio](https://aryangupta09.netlify.app/) -->
 
