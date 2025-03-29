@@ -12,14 +12,14 @@ Let’s connect and create something exceptional together!
 ## Languages
 
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/C.svg" width="45" height="45" alt="C" title="C" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/CPP.svg" width="45" height="45" alt="C++" title="C++" /></a>
+  <a href="https://www.c-language.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/C.svg" width="45" height="45" alt="C" title="C" /></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/CPP.svg" width="45" height="45" alt="C++" title="C++" /></a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Java.svg" width="45" height="45" alt="Java" title="Java" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Python.svg" width="45" height="45" alt="Python" title="Python" /></a>&nbsp;
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/R.png" width="55" height="45" alt="R" title="R" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/HTML.svg" width="45" height="45" alt="HTML5" title="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/CSS.svg" width="45" height="45" alt="CSS3" title="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/JavaScript.svg" width="45" height="45" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/HTML.svg" width="45" height="45" alt="HTML" title="HTML" /></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/CSS.svg" width="45" height="45" alt="CSS" title="CSS" /></a>
+  <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/JavaScript.svg" width="45" height="45" alt="JavaScript" title="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/TypeScript.svg" width="45" height="45" alt="TypeScript" title="TypeScript" /></a>&nbsp;
   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Haskell.png" width="55" height="45" alt="Haskell" title="Haskell" /></a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/LaTeX.png" width="45" height="45" alt="LaTeX" title="LaTeX" /></a>
@@ -59,7 +59,6 @@ Let’s connect and create something exceptional together!
   <a href="https://jqueryui.com/" target="_blank" rel="noreferrer" title="jQuery UI"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/jQueryUI.svg" width="45" height="45" alt="jQuery UI" /></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Postman.svg" alt="Postman" width="45" height="45"/></a>
   <a href="https://gulpjs.com" target="_blank" rel="noreferrer" title="Gulp"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Gulp.png" alt="Gulp" width="20" height="45"/></a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer" title="Babel"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Babel.svg" width="45" height="35" alt="Babel" /></a>
 </p>
 
 #### Data Science and Visualization
@@ -104,7 +103,7 @@ Let’s connect and create something exceptional together!
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Git.svg" width="45" height="45" alt="Git" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Linux.svg" alt="Linux" width="45" height="45"/></a>
+  <a href="https://kernel.org/" target="_blank" rel="noreferrer" title="Linux"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Linux.svg" alt="Linux" width="45" height="45"/></a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="Arduino"> <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Arduino.svg" alt="Arduino" width="45" height="45"/></a>&nbsp;
   <a href="https://www.zotero.org/" target="_blank" rel="noreferrer" title="Zotero"> <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Zotero.png" alt="Zotero" width="45" height="45"/></a>
 </p>
