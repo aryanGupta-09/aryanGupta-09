@@ -58,8 +58,9 @@ Let’s connect and create something exceptional together!
   <a href="https://threejs.org/" target="_blank" rel="noreferrer" title="Three.js"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Threejs.png" width="45" height="45" alt="Three.js" /></a>
 <!--   <a href="https://jquery.com/" target="_blank" rel="noreferrer" title="jQuery"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/jQuery.svg" width="45" height="45" alt="jQuery" /></a> -->
 <!--   <a href="https://jqueryui.com/" target="_blank" rel="noreferrer" title="jQuery UI"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/jQueryUI.svg" width="45" height="45" alt="jQuery UI" /></a> -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Postman.svg" alt="Postman" width="45" height="45"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Postman.svg" alt="Postman" width="45" height="45"/></a>&nbsp;
 <!--   <a href="https://gulpjs.com" target="_blank" rel="noreferrer" title="Gulp"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Gulp.png" alt="Gulp" width="20" height="45"/></a> -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Docker.svg" alt="Docker" width="50" height="50"/></a>
 </p>
 
 #### Data Science and Visualization
