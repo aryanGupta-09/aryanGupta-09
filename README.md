@@ -95,7 +95,7 @@ Let’s connect and create something exceptional together!
 
 <p align="left">
   <a href="https://www.adobe.com/in/creativecloud/all-apps.html" target="_blank" rel="noreferrer" title="Adobe Creative Cloud"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/AdobeCreativeCloud.png" width="45" height="45" alt="Adobe Creative Cloud" /></a>&nbsp;
-  <a href="https://miro.com/" target="_blank" rel="noreferrer" title="Miro"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Miro.png" width="45" height="45" alt="Miro" /></a>
+  <a href="https://miro.com/" target="_blank" rel="noreferrer" title="Miro"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Miro.png" width="45" height="45" alt="Miro" /></a>&nbsp;
 <!--   <a href="https://www.lucidchart.com/pages/" target="_blank" rel="noreferrer" title="Lucidchart"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/LucidChart.png" alt="Lucidchart" width="45" height="45"/></a> -->
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer" title="Blender"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Blender.svg" alt="Blender" width="45" height="45"/></a>
 <!--   <a href="https://www.autodesk.in/products/fusion-360/overview" target="_blank" rel="noreferrer" title="Fusion 360"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Fusion360.webp" alt="Fusion 360" width="45" height="45"/></a> -->
