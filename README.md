@@ -127,7 +127,7 @@ Let’s connect and create something exceptional together!
 ## Stats
 
 <picture>
-  <img src="https://github-readme-stats-aryangupta-09s-projects.vercel.app/api/top-langs/?username=aryanGupta-09&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,cf-stats,Haskell-MOOC-Solutions,MatrixCalculator&langs_count=20&title_color=ffffff&text_color=ffffff&icon_color=6456f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-aryangupta-09s-projects.vercel.app/api/top-langs/?username=aryanGupta-09&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,cf-stats,Haskell-MOOC-Solutions,MatrixCalculator&langs_count=20&title_color=ffffff&text_color=ffffff&icon_color=6456f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut-vertical" alt="Top Languages" />
 </picture>
 <!--
 &nbsp;&nbsp;
@@ -140,14 +140,18 @@ Let’s connect and create something exceptional together!
 </picture>
 <br/>
 
+<!--
 <picture>
   <img src="https://streak-stats.demolab.com/?user=aryanGupta-09&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </picture>
 <br/>
+-->
 
+<!--
 <picture>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanGupta-09&bg_color=1c1917&color=ffffff&line=6456f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </picture>
+-->
 
 ### ✍️ Bytes of Wisdom
 <picture>
