@@ -23,7 +23,7 @@ Let’s connect and create something exceptional together!
   <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/JavaScript.svg" width="45" height="45" alt="JavaScript" title="JavaScript" /></a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/TypeScript.svg" width="45" height="45" alt="TypeScript" title="TypeScript" /></a>&nbsp;
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Kotlin.svg" width="45" height="45" alt="Kotlin" title="Kotlin" /></a>&nbsp;
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Haskell.png" width="55" height="45" alt="Haskell" title="Haskell" /></a>&nbsp;
+  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Haskell.png" width="65" height="45" alt="Haskell" title="Haskell" /></a>&nbsp;
   <!-- <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/VisualBasic.png" width="50" height="50" alt="Visual Basic .NET" title="Visual Basic .NET" /></a> -->
 </p>
 
