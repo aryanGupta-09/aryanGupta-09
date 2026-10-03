@@ -1,7 +1,9 @@
 Hey there 👋 I'm Aryan
 ============================
 
-I'm a software developer working on production applications and data-driven systems, with experience across application development, APIs, databases, data processing, and performance optimization. My work involves building and maintaining software, investigating technical issues, working with existing systems and codebases, and improving them where needed. I’m particularly interested in the parts of development that involve understanding how data moves through a system, how different components interact, and how changes can affect performance and reliability.
+I'm a software developer working on production applications and data-driven systems, with experience across application development, APIs, databases, and performance optimization. My work involves building and maintaining software, investigating technical issues, and working with existing systems and codebases to make improvements where needed.
+
+I’m particularly interested in understanding how data moves through a system, how different components interact, and how changes can affect performance and reliability, with a strong emphasis on practical solutions, clear and maintainable code, and avoiding unnecessary complexity.
 
 <!-- * 🖥️  See my [Portfolio](https://aryangupta09.netlify.app/) -->
 
