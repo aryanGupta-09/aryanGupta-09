@@ -65,7 +65,7 @@ Let’s connect and create something exceptional together!
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Docker.svg" alt="Docker" width="50" height="50"/></a>
 </p>
 
-#### Data Science and Visualization
+#### Data Science
 
 <p align="left">
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer" title="Selenium"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Data%20Science%20and%20Visualization/Selenium.png" width="43" height="43" alt="Selenium" /></a>&nbsp;&nbsp;
