@@ -120,21 +120,21 @@ Let’s connect and create something exceptional together!
 </p>
 -->
 
-## Stats
+<!-- ## Stats -->
 
-<picture>
+<!-- <picture>
   <img src="https://github-readme-stats-aryangupta-09s-projects.vercel.app/api/top-langs/?username=aryanGupta-09&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,cf-stats,Haskell-MOOC-Solutions,MatrixCalculator&langs_count=20&title_color=ffffff&text_color=ffffff&icon_color=6456f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut-vertical" alt="Top Languages" />
-</picture>
+</picture> -->
 <!--
 &nbsp;&nbsp;
 <a href="https://codeforces.com/profile/DevilCoder_09"><img src="https://raw.githubusercontent.com/aryanGupta-09/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="aryanGupta-09's Codeforces stats" /></a>
 -->
-<br/>
+<!-- <br/> -->
 
-<picture>
+<!-- <picture>
   <img src="https://github-readme-stats-aryangupta-09s-projects.vercel.app/api?username=aryanGupta-09&show_icons=true&count_private=true&hide=issues&show=reviews&title_color=6456f1&text_color=ffffff&icon_color=6456f1&bg_color=1c1917&hide_border=true" alt="aryanGupta-09's GitHub stats" />
-</picture>
-<br/>
+</picture> -->
+<!-- <br/> -->
 
 <!--
 <picture>
@@ -149,7 +149,7 @@ Let’s connect and create something exceptional together!
 </picture>
 -->
 
-### ✍️ Bytes of Wisdom
-<picture>
+<!-- ### ✍️ Bytes of Wisdom -->
+<!-- <picture>
   <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-</picture>
+</picture> -->
