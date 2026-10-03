@@ -18,14 +18,13 @@ Let’s connect and create something exceptional together!
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Java.svg" width="45" height="45" alt="Java" title="Java" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Python.svg" width="45" height="45" alt="Python" title="Python" /></a>&nbsp;
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/R.png" width="55" height="45" alt="R" title="R" /></a>
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/HTML.svg" width="45" height="45" alt="HTML" title="HTML" /></a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/CSS.svg" width="45" height="45" alt="CSS" title="CSS" /></a>
+  <!-- <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/HTML.svg" width="45" height="45" alt="HTML" title="HTML" /></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/CSS.svg" width="45" height="45" alt="CSS" title="CSS" /></a> -->
   <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/JavaScript.svg" width="45" height="45" alt="JavaScript" title="JavaScript" /></a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/TypeScript.svg" width="45" height="45" alt="TypeScript" title="TypeScript" /></a>&nbsp;
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Kotlin.svg" width="45" height="45" alt="Kotlin" title="Kotlin" /></a>&nbsp;
   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/Haskell.png" width="55" height="45" alt="Haskell" title="Haskell" /></a>&nbsp;
   <!-- <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/VisualBasic.png" width="50" height="50" alt="Visual Basic .NET" title="Visual Basic .NET" /></a> -->
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/LaTeX.png" width="45" height="45" alt="LaTeX" title="LaTeX" /></a>
 </p>
 
 ## Tools and Technologies
@@ -54,10 +53,10 @@ Let’s connect and create something exceptional together!
   <!-- <a href="https://www.passportjs.org/" target="_blank" rel="noreferrer" title="Passport.js"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Passportjs.png" width="40" height="45" alt="Passport.js" /></a> -->
 <!--   <a href="https://nodemailer.com/" target="_blank" rel="noreferrer" title="Nodemailer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Nodemailer.png" width="70" height="40" alt="Nodemailer" /></a>&nbsp; -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Tailwind.png" width="54" height="35" alt="Tailwind CSS" /></a>&nbsp;
-  <a href="https://mui.com/" target="_blank" rel="noreferrer" title="Material UI"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/MaterialUI.svg" width="49" height="40" alt="Material UI" /></a>&nbsp;
+  <!-- <a href="https://mui.com/" target="_blank" rel="noreferrer" title="Material UI"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/MaterialUI.svg" width="49" height="40" alt="Material UI" /></a>&nbsp; -->
 <!--   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="Bootstrap"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Bootstrap.svg" width="45" height="45" alt="Bootstrap" /></a> -->
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="Sass"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Sass.svg" width="45" height="45" alt="Sass" /></a>
-  <a href="https://motion.dev/" target="_blank" rel="noreferrer" title="Motion"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Motion.png" width="45" height="45" alt="Motion" /></a>
+  <!-- <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="Sass"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Sass.svg" width="45" height="45" alt="Sass" /></a> -->
+  <!-- <a href="https://motion.dev/" target="_blank" rel="noreferrer" title="Motion"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Motion.png" width="45" height="45" alt="Motion" /></a> -->
   <!-- <a href="https://threejs.org/" target="_blank" rel="noreferrer" title="Three.js"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/Threejs.png" width="45" height="45" alt="Three.js" /></a> -->
   <!-- <a href="https://jquery.com/" target="_blank" rel="noreferrer" title="jQuery"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/jQuery.svg" width="45" height="45" alt="jQuery" /></a> -->
 <!--   <a href="https://jqueryui.com/" target="_blank" rel="noreferrer" title="jQuery UI"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Web%20Development/jQueryUI.svg" width="45" height="45" alt="jQuery UI" /></a> -->
@@ -72,12 +71,12 @@ Let’s connect and create something exceptional together!
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer" title="Selenium"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Data%20Science%20and%20Visualization/Selenium.png" width="43" height="43" alt="Selenium" /></a>&nbsp;&nbsp;
   <a href="https://numpy.org/" target="_blank" rel="noreferrer" title="NumPy"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Data%20Science%20and%20Visualization/NumPy.svg" width="45" height="45" alt="NumPy" /></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Data%20Science%20and%20Visualization/Pandas.png" width="42" height="50" alt="Pandas" /></a>
-  <a href="https://www.dask.org/" target="_blank" rel="noreferrer" title="Dask"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Data%20Science%20and%20Visualization/Dask.svg" width="45" height="45" alt="Dask" /></a>
+  <!-- <a href="https://www.dask.org/" target="_blank" rel="noreferrer" title="Dask"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Data%20Science%20and%20Visualization/Dask.svg" width="45" height="45" alt="Dask" /></a> -->
 <!--   <a href="https://pola.rs/" target="_blank" rel="noreferrer" title="Polars"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Data%20Science%20and%20Visualization/Polars.png" width="65" height="35" alt="Polars" /></a> -->
 <!--   <a href="https://modin.readthedocs.io/en/stable/" target="_blank" rel="noreferrer" title="Modin"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Data%20Science%20and%20Visualization/Modin.png" width="57" height="37" alt="Modin" /></a>&nbsp; -->
   <!-- <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" title="Matplotlib"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Data%20Science%20and%20Visualization/Matplotlib.png" width="42" height="42" alt="Matplotlib" /></a>&nbsp; -->
   <!-- <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" title="Seaborn"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Data%20Science%20and%20Visualization/Seaborn.svg" width="42" height="42" alt="Seaborn" /></a> -->
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer" title="D3.js"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Data%20Science%20and%20Visualization/D3js.png" width="43" height="42" alt="D3.js" /></a>
+  <!-- <a href="https://d3js.org/" target="_blank" rel="noreferrer" title="D3.js"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Data%20Science%20and%20Visualization/D3js.png" width="43" height="42" alt="D3.js" /></a> -->
   <!-- <a href="https://www.tableau.com/" target="_blank" rel="noreferrer" title="Tableau"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Data%20Science%20and%20Visualization/Tableau.png" width="40" height="40" alt="Tableau" /></a> -->
 </p>
 
@@ -92,26 +91,22 @@ Let’s connect and create something exceptional together!
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer" title="RabbitMQ"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Distributed%20Systems%20and%20Cloud/RabbitMQ.png" width="40" height="40" alt="RabbitMQ" /></a>
 </p>
 
-#### Design
-
-<p align="left">
-  <a href="https://www.adobe.com/in/creativecloud/all-apps.html" target="_blank" rel="noreferrer" title="Adobe Creative Cloud"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/AdobeCreativeCloud.png" width="45" height="45" alt="Adobe Creative Cloud" /></a>&nbsp;
-  <a href="https://miro.com/" target="_blank" rel="noreferrer" title="Miro"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Miro.png" width="45" height="45" alt="Miro" /></a>&nbsp;
-<!--   <a href="https://www.lucidchart.com/pages/" target="_blank" rel="noreferrer" title="Lucidchart"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/LucidChart.png" alt="Lucidchart" width="45" height="45"/></a> -->
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer" title="Blender"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Blender.svg" alt="Blender" width="45" height="45"/></a>
-<!--   <a href="https://www.autodesk.in/products/fusion-360/overview" target="_blank" rel="noreferrer" title="Fusion 360"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Fusion360.webp" alt="Fusion 360" width="45" height="45"/></a> -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Figma.svg" width="45" height="45" alt="Figma" /></a>
-<!--   <a href="https://www.protopie.io/" target="_blank" rel="noreferrer" title="ProtoPie"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/ProtoPie.png" width="42" height="42" alt="ProtoPie" /></a> -->
-</p>
-
-#### Miscellaneous
+#### Other Tools
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Git.svg" width="45" height="45" alt="Git" /></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer" title="Jira"> <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Jira.png" alt="Jira" width="43" height="43"/></a>&nbsp;
   <a href="https://kernel.org/" target="_blank" rel="noreferrer" title="Linux"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Linux.svg" alt="Linux" width="45" height="45"/></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="Arduino"> <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Arduino.svg" alt="Arduino" width="45" height="45"/></a>&nbsp;
+  <!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="Arduino"> <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Arduino.svg" alt="Arduino" width="45" height="45"/></a>&nbsp; -->
+  <!-- <a href="https://www.adobe.com/in/creativecloud/all-apps.html" target="_blank" rel="noreferrer" title="Adobe Creative Cloud"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/AdobeCreativeCloud.png" width="45" height="45" alt="Adobe Creative Cloud" /></a>&nbsp; -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Figma.svg" width="45" height="45" alt="Figma" /></a>
+  <a href="https://miro.com/" target="_blank" rel="noreferrer" title="Miro"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Miro.png" width="45" height="45" alt="Miro" /></a>&nbsp;
+<!--   <a href="https://www.lucidchart.com/pages/" target="_blank" rel="noreferrer" title="Lucidchart"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/LucidChart.png" alt="Lucidchart" width="45" height="45"/></a> -->
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer" title="Blender"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Blender.svg" alt="Blender" width="45" height="45"/></a>
+<!--   <a href="https://www.autodesk.in/products/fusion-360/overview" target="_blank" rel="noreferrer" title="Fusion 360"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Fusion360.webp" alt="Fusion 360" width="45" height="45"/></a> -->
+<!--   <a href="https://www.protopie.io/" target="_blank" rel="noreferrer" title="ProtoPie"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/ProtoPie.png" width="42" height="42" alt="ProtoPie" /></a> -->
   <a href="https://www.zotero.org/" target="_blank" rel="noreferrer" title="Zotero"> <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Zotero.png" alt="Zotero" width="47" height="47"/></a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/LaTeX.png" width="45" height="45" alt="LaTeX" title="LaTeX" /></a>
 </p>
 
 <!--
