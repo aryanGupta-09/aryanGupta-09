@@ -93,17 +93,17 @@ I’m particularly interested in understanding how data moves through a system, 
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Git.svg" width="45" height="45" alt="Git" /></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer" title="Jira"> <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Jira.png" alt="Jira" width="43" height="43"/></a>&nbsp;
+  <!-- <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer" title="Jira"> <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Jira.png" alt="Jira" width="43" height="43"/></a>&nbsp; -->
   <a href="https://kernel.org/" target="_blank" rel="noreferrer" title="Linux"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Linux.svg" alt="Linux" width="45" height="45"/></a>
   <!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="Arduino"> <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Arduino.svg" alt="Arduino" width="45" height="45"/></a>&nbsp; -->
   <!-- <a href="https://www.adobe.com/in/creativecloud/all-apps.html" target="_blank" rel="noreferrer" title="Adobe Creative Cloud"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/AdobeCreativeCloud.png" width="45" height="45" alt="Adobe Creative Cloud" /></a>&nbsp; -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Figma.svg" width="45" height="45" alt="Figma" /></a>
-  <a href="https://miro.com/" target="_blank" rel="noreferrer" title="Miro"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Miro.png" width="45" height="45" alt="Miro" /></a>&nbsp;
+  <!-- <a href="https://miro.com/" target="_blank" rel="noreferrer" title="Miro"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Miro.png" width="45" height="45" alt="Miro" /></a>&nbsp; -->
 <!--   <a href="https://www.lucidchart.com/pages/" target="_blank" rel="noreferrer" title="Lucidchart"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/LucidChart.png" alt="Lucidchart" width="45" height="45"/></a> -->
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer" title="Blender"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Blender.svg" alt="Blender" width="45" height="45"/></a>
+  <!-- <a href="https://www.blender.org/" target="_blank" rel="noreferrer" title="Blender"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Blender.svg" alt="Blender" width="45" height="45"/></a> -->
 <!--   <a href="https://www.autodesk.in/products/fusion-360/overview" target="_blank" rel="noreferrer" title="Fusion 360"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/Fusion360.webp" alt="Fusion 360" width="45" height="45"/></a> -->
 <!--   <a href="https://www.protopie.io/" target="_blank" rel="noreferrer" title="ProtoPie"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Design/ProtoPie.png" width="42" height="42" alt="ProtoPie" /></a> -->
-  <a href="https://www.zotero.org/" target="_blank" rel="noreferrer" title="Zotero"> <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Zotero.png" alt="Zotero" width="47" height="47"/></a>
+  <!-- <a href="https://www.zotero.org/" target="_blank" rel="noreferrer" title="Zotero"> <img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Other/Zotero.png" alt="Zotero" width="47" height="47"/></a> -->
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/aryanGupta-09/GitHub-Profile-Icons/blob/main/Languages/LaTeX.png" width="45" height="45" alt="LaTeX" title="LaTeX" /></a>
 </p>
 
